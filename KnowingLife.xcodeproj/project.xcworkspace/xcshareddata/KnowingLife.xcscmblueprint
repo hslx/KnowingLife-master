@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "26B19F099A04605167CF15462EBEF81A831F5A29",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "26B19F099A04605167CF15462EBEF81A831F5A29" : 0,
+    "76C8612C8289507B244DE5A1478AC8B0635267D9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5BE314AD-86AD-42E0-A3D1-5A42368D9533",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "26B19F099A04605167CF15462EBEF81A831F5A29" : "KnowingLife-master\/",
+    "76C8612C8289507B244DE5A1478AC8B0635267D9" : "KnowingLife"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KnowingLife",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KnowingLife.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hslx\/KnowingLife-master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "26B19F099A04605167CF15462EBEF81A831F5A29"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:12207480\/KnowingLife.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76C8612C8289507B244DE5A1478AC8B0635267D9"
+    }
+  ]
+}

@@ -78,8 +78,11 @@ static NSString * const reuseHeaderIdentifier = @"HeaderViewCell";
     // 注册内容cell
     [self registerCells];
     
-    // 添加第一组 购物
-    [self addSectionBuy];
+//    // 添加第一组 购物
+//    [self addSectionBuy];
+      
+      //添加第一组 购物
+      [self addSectionBuy];
     
     // 添加第二组 娱乐
     [self addSectionEntertainment];
